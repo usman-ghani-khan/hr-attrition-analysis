@@ -210,16 +210,32 @@ ORDER BY Attrition_Rate_Percent DESC;
 
 ## 💰 Business Impact Summary
 
+**Current State (Data-Driven):**
+- Total attrition: 178 employees
+- Attrition rate: 12.11%
+- **Assumed** replacement cost: $50,000/employee (industry standard)
+- Current annual cost: $8.9M
+
+**Projected Scenario (If Interventions Succeed):**
+
 | Metric | Current State | After Interventions | Improvement |
 |--------|---------------|---------------------|-------------|
-| Attrition Count | 178 employees | 125 employees | **-53 employees** |
-| Attrition Rate | 12.1% | 8.5% | **-3.6 percentage points** |
-| Annual Replacement Cost | $8.9M | $6.25M | **$2.65M savings** |
+| Attrition Count | 178 employees | ~110 employees | **-68 employees** |
+| Attrition Rate | 12.1% | ~7.5% | **-4.6 percentage points** |
+| Annual Replacement Cost | $8.9M | ~$5.5M | **~$3.4M savings** |
 
-**ROI Calculation:**  
+**ROI Analysis (Scenario-Based):**  
 - Estimated program cost: $400K (surveys, training, hiring, bonuses)
-- Annual savings: $2.65M
-- **Net ROI: 560%** (5.6x return on investment)
+- Projected annual savings: ~$3.4M
+- **Potential ROI: 850%** (8.5x return on investment)
+
+**Key Assumptions:**
+1. Replacement cost = $50,000 per employee (varies by role/seniority)
+2. Intervention effectiveness rates: 20-30% improvement in targeted segments
+3. Implementation quality and sustained commitment to programs
+4. No external factors (economy, industry changes) impacting attrition
+
+*These projections are scenario analyses to illustrate potential business value. Actual results will vary based on execution quality and organizational context.*
 
 ---
 
