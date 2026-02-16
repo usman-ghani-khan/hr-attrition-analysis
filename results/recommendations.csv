@@ -1,0 +1,3 @@
+Priority,Segment,Issue,Recommendation,Expected_Impact
+HIGH,Employees working overtime,Overtime workers have 17.4% attrition rate vs 10.2% for non-overtime,"Enforce overtime limits, hire additional capacity, implement workload balancing system",20% reduction in overtime-related attrition
+MEDIUM,Sales department,Sales attrition (12.6%) exceeds company average (12.1%),"Review sales compensation structure, add performance bonuses, reduce travel requirements",15% reduction in sales attrition
